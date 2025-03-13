@@ -1,0 +1,19 @@
+.nik {
+    background-color: rgba(0, 0, 0, 0.1);
+    display: flex;
+} 
+
+.departments {
+    color: red;
+}
+
+.departments3{
+    display: inline-block;
+    margin-left:1300px;
+}
+
+.search-input {
+    text-align: center;
+    margin: 10rem 35rem;
+    font-size: 20px;
+}
